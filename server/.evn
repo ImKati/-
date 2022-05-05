@@ -1,0 +1,6 @@
+PORT = 5000
+DB_Name=online_store
+DB_USER=postgres
+DB_PASSWORD=qweasdzxc3315
+DB_HOST=localhost
+DB_PORT=5432
